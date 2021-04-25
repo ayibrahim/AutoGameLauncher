@@ -1,0 +1,10 @@
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\bin\Release\PlayerUI.exe.config
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\bin\Release\PlayerUI.exe
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\bin\Release\PlayerUI.pdb
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\PlayerUI.AutomatedProcessesForm.resources
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\PlayerUI.MainPage.resources
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\PlayerUI.Properties.Resources.resources
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\MyAutoLauncher.csproj.GenerateResource.cache
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\MyAutoLauncher.csproj.CoreCompileInputs.cache
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\PlayerUI.exe
+C:\Users\ayibr\OneDrive\Desktop\MyAutoLauncher\MyAutoLauncher\PlayerUI\obj\Release\PlayerUI.pdb
